@@ -37,6 +37,7 @@ To clone:
 git clone https://github.com/HarshalDighe/Shell-Scripting-for-Devops.git
 cd ShellScripting-For-DevOps
 chmod +x user_management_backup.sh
+```
 
 ## 🖥️ How to Use
 
