@@ -29,11 +29,21 @@ Learners can build real-world DevOps skills using Bash scripting, Git, and Linux
 ## 📂 Repository
 
 - **Repository Platform**: GitHub  
-- **Repository Link**: [Shell Scripting for DevOps](https://github.com/LondheShubham153/ShellScripting-For-DevOps)
+- **Repository Link**: [Shell Scripting for DevOps](https://github.com/HarshalDighe/Shell-Scripting-for-Devops.git)
 
 To clone:
 
 ```bash
-git clone https://github.com/LondheShubham153/ShellScripting-For-DevOps.git
+git clone https://github.com/HarshalDighe/Shell-Scripting-for-Devops.git
 cd ShellScripting-For-DevOps
 chmod +x user_management_backup.sh
+
+## 🖥️ How to Use
+
+### 🔧 Run the Script
+
+To start the script, use:
+
+```bash
+sudo ./user_management_backup.sh
+
